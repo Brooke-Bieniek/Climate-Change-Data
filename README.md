@@ -16,3 +16,4 @@ The Data came from the Washington Post that used and analylized data from the Na
 
 --------
 ![data-viz](/Data Visualization.png)
+
