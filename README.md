@@ -18,7 +18,7 @@ The Data came from the Washington Post that used and analylized data from the Na
 
 ----------
 ### Potential uses?
-1. This data can be used to compare and contrast the affects of climate change betweeen differernt states or regions in the united states
+1. This data can be used to compare and contrast the affects of climate change betweeen different states or regions in the united states
 2. The general public can uses this data to recreate a subset that analyzes average temperture changes in each season in their state
 3. This data set can be used as a graphic to show the affects of climate change to policymakers 
 
