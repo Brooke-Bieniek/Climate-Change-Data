@@ -14,6 +14,13 @@ Climate Change is one of the most important issues the world is currently facing
 ### Where was the Data gethered from? 
 The Data came from the Washington Post that used and analylized data from the National Oceanic and Atmospheric Administration's Climate Divisional Database and Gridded 5km GHCN Daily temperture and precipitation Dataset
 
+-----------
+### Data Visualization
+>The visualization was created using Data Wrapper
+
+>The Visualization below shows the two data points we are analyzing (Maine and Alabama). 
+
+
 
 ![data-viz](/ARHFt-average-temperature-degree-changes-by-season-1895-2019-%20(1).png)
 
