@@ -24,8 +24,7 @@ The Data came from the Washington Post that used and analylized data from the Na
 ### Data Visualization
 >The visualization was created using Data Wrapper
 
->The Visualization below shows the two data points we are analyzing (Maine and Alabama). 
-
+>The Visualization below shows the two data points we are analyzing (Maine and Alabama).
 
 ![data-viz](/Data Visualization.png)
 
