@@ -26,7 +26,7 @@ The Data came from the Washington Post that used and analylized data from the Na
 
 >The Visualization below shows the two data points we are analyzing (Maine and Alabama).
 
-![data-viz](/Data Visualization.png)
+![data-viz](/ARHFt-average-temperature-degree-changes-by-season-1895-2019-.png)
 
 
 
