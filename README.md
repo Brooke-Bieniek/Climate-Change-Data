@@ -14,6 +14,12 @@ Climate Change is one of the most important issues the world is currently facing
 ### Where was the Data gethered from? 
 The Data came from the Washington Post that used and analylized data from the National Oceanic and Atmospheric Administration's Climate Divisional Database and Gridded 5km GHCN Daily temperture and precipitation Dataset
 
+----------
+### Potential uses?
+1. This data can be used to compare and contrast the affects of climate change betweeen differernt states or regions in the united states
+2. The general public can uses this data to recreate a subset that analyzes average temperture changes in each season in their state
+3. This data set can be used as a graphic to show the affects of climate change to policy makers 
+
 -----------
 ### Data Visualization
 >The visualization was created using Data Wrapper
