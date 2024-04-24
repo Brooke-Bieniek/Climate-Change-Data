@@ -15,6 +15,7 @@ Climate Change is one of the most important issues the world is currently facing
 The Data came from the Washington Post that used and analylized data from the National Oceanic and Atmospheric Administration's Climate Divisional Database and Gridded 5km GHCN Daily temperture and precipitation Dataset
 
 --------
-![data-viz](Data Visualization.png)
+![data-viz](/data/Data Visualization.png)
+
 
 
