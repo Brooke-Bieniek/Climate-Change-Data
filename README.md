@@ -27,7 +27,7 @@ The Data came from the Washington Post that used and analylized data from the Na
 >The Visualization below shows the two data points we are analyzing (Maine and Alabama). 
 
 
-![data-viz](/https:/datawrapper.dwcdn.net/ARHFt/1)
+![Alt-text](/Data Visualization.png)
 
 
 
